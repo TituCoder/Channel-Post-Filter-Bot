@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = 
-ADMIN        = 
+API_ID       = 28502424
+API_HASH     = "91f949750d97b60cb424f9d7e0b95f09"
+BOT_TOKEN    = "8184797331:AAElQrvG3ly4MAs2QOEJCBfCBQraykpzINQ"
+SESSION      = "BQAf70YAco7vvHJOlScStKI1yRARWejZYjZtWq40C81NrPFTTVgdSGwbwrzAE1HupQzVOEw93pZw8aoEFfw3pqkS1JuNr0GE6c4Q_2eijwzbRfLQt4kcUyB5fKa-0S4LvupKmRBboJrCdY6EzQqKVoxI2NxF-ZYiSp_wjKKwvyMLPFkCTIR-inhdekvWOGCqE4IcD9ny78-pyrPr3MDUf4gRtfizMeMtXyzWWbQmXdPzR2jRuiCUtKm2ym-Pr16wlGEPuOGiZ5EnHLXFWgMTBzFlVdfKsJ0WRi6_8pCWZBvibtjoE-BDbSWtw5cmE6k9kcC9nBwTO-wxjohhhKuY3SnW_L8GbQAAAAHSIt28AA"
+DATABASE_URI = "mongodb+srv://titu:titu@titu.iiyi7.mongodb.net/?retryWrites=true&w=majority&appName=titu"
+LOG_CHANNEL  = -1002265923697
+ADMIN        = 7820467644
 CHANNEL      = "@CyNiTeBaCkUp"
